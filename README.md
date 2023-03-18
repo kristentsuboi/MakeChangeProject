@@ -13,11 +13,7 @@
 - If statement to check if exact change is provided, if so print message.
 - Else if to see if price > cash, if so print error message. 
 - Else statement to calculate change. Math.round to assist with rounding.
-
-
-
-
-
-gained understanding on this or that
-learned about converting this or that
-practiced using scanner to input with the user.
+-- Within else statement, calculate change. 
+-- Print change due.
+-- Then calculate each denomination using basic math subtracting each from change. 
+-- Lastly, using if statements to print if (denominations != 0) to prevent lines from printing if they are not used.
